@@ -1,7 +1,5 @@
 //Check if the input is pangram or not. (A pangram is a sentence that contains all the alphabets from A to Z)
 
-package Assignment.Java;
-
 import java.util.*;
 
 public class problem3 {
